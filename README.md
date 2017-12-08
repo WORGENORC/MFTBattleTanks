@@ -1,2 +1,2 @@
 # MFTBattleTanks
-Tank battle game from the udemy course.
+Tank battle tank game from the udemy course.
